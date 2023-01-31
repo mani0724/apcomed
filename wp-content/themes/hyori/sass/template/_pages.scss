@@ -1,0 +1,182 @@
+// layout for woocommerce
+@media(min-width:1501px){
+    .col-md-cl-5{
+        width: 20%;
+        &.first{
+        	clear: both;
+        }
+    }
+}
+@media(min-width: 1200px) and (max-width:1500px){
+	.col-md-cl-5{
+        width: 25%;
+        &.first:nth-child(4n + 1){
+        	clear: both;
+        }
+    }
+    div.product.col-md-cl-5:nth-child(4n + 1){
+    	clear: both;
+    }
+}
+.main-page {
+	.page-links{
+		clear: both;
+		overflow: hidden;
+		padding:$theme-padding 0;
+		margin:0;
+	}
+	#respond .comment-reply-title{
+		margin:0 !important;
+	}
+	#comments{
+		margin-top:30px;
+	}
+}
+//----------------------------------
+// layout page
+.wrapper-80{
+	padding-left:50px;
+	padding-right:50px;
+}
+@media(min-width:1200px){
+	.wrapper-80{
+		padding-left:80px;
+		padding-right:80px;
+	}
+	.wrapper-50{
+		padding-left:50px;
+		padding-right:50px;
+	}
+}
+div.wpcf7-validation-errors{
+	margin: 0;
+	padding: 15px;
+}
+.contact-form-content{
+	padding: $theme-padding;
+	background: $contact-bg;
+	min-height: 260px;
+	.rounded{
+		@include rtl-margin-right(10px);
+		color: $white;
+		@include size(40px,40px); 
+		background: darken($body-bg, 20%);
+		.fa,.icon{
+			@include font-size(font-size,16px);
+			margin: 13px;
+		}
+	}
+	small{
+		color: darken($text-color, 20%);
+	}
+}
+.user{
+	> div{
+		display: none;
+		&.active{
+			display: block;
+		}
+	}
+	max-width:570px;
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+	form{
+		margin-bottom: 25px !important;
+	}
+	.title{
+		font-size: 30px;
+		margin:0 0 20px;
+		@media(min-width: 1200px){
+			font-size: 48px;
+		}
+	}
+	.create {
+		margin-bottom: 30px;
+		@media(min-width: 1200px){
+			margin-bottom: 50px;
+		}
+		a{
+			font-size: 12px;
+			text-decoration: underline;
+			text-transform: uppercase;
+		}
+	}
+}
+// Page Not Found
+//----------------------------------
+.page-404{
+   .not-found{
+   	padding: 0 0 30px;
+   	@media(min-width:1200px){
+   		padding: 60px 0 100px;
+   	}
+   }
+   .icon-error{
+   		font-size:60px;
+   }
+   .return-home{
+   		font-size:16px;
+   		text-decoration: underline;
+   }
+   .description{
+   	font-size:16px;
+   	margin-bottom:$theme-padding;
+   }
+   .title-big{
+   	font-size:20px;
+   	text-transform: uppercase;
+   	@media(min-width:1200px){
+   		font-size:40px;
+   	}
+   	margin:0 0 20px;
+   } 
+   .widget-search{
+   	max-width:500px;
+   	margin:auto;
+   }
+   .page-content{
+   		margin-bottom: 20px;
+   		@media(min-width: 1200px){
+   			margin-bottom: 50px;
+   		}
+   }
+}
+.box-relative{
+	.elementor-widget,
+	.elementor-column,
+	.elementor-column-wrap, .elementor-widget-wrap{
+		position:static;
+	}
+
+	.header-content-right {
+		display: inline-block;
+		position: relative;
+		@include rtl-text-align-right();
+		.elementor-widget-hyori_search_form, .elementor-widget-hyori_user_info, .elementor-widget-hyori_woo_header {
+			display: inline-block;
+			margin: 0;
+		}
+		.elementor-widget-hyori_woo_header { 
+		}
+	}
+}
+body.elementor-editor-active {
+	.box-relative{
+		.elementor-row{
+			.elementor-widget,
+			.elementor-column,
+			.elementor-column-wrap, .elementor-widget-wrap{
+				position:relative;
+			}
+		}
+	}
+}
+
+// Page FAQ
+//----------------------------------
+.elementor-accordion {
+	.elementor-accordion-item {
+		margin: 0 0 20px;
+	}
+} 

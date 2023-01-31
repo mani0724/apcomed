@@ -1,0 +1,51 @@
+
+---Downloaded files---
+The import files for: Home were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = http://mygoalthemes.com/demo/hyori
+Data file = /home/kc4e01i9tu2a/public_html/demo/hyori/wp-content/themes/hyori/inc/vendors/one-click-demo-import/data/dummy-data.xml
+Widget file = /home/kc4e01i9tu2a/public_html/demo/hyori/wp-content/themes/hyori/inc/vendors/one-click-demo-import/data/widgets.wie
+Customizer file = not defined!
+Redux files:
+hyori_theme_options -> /home/kc4e01i9tu2a/public_html/demo/hyori/wp-content/themes/hyori/inc/vendors/one-click-demo-import/data/redux-options.json 
+
+
+---ocdi/before_widgets_import---
+
+
+---Importing widgets---
+Sidebar Default : 
+
+Search - No Title - Imported
+Recent Posts - No Title - Imported
+Recent Comments - No Title - Imported
+Archives - No Title - Imported
+Categories - No Title - Imported
+Meta - No Title - Imported
+
+Blog sidebar : 
+
+Goal Search Widget - Search - Imported
+Categories - Categories - Imported
+Goal Recent Posts Widget - Latest Post - Imported
+Archives - No Title - Imported
+Recent Comments - No Title - Imported
+Tag Cloud - Tags - Imported
+
+Shop Sidebar : 
+
+Product Categories - Categories - Imported
+Filter Products by Price - Filter by price - Imported
+Goal Filter Products by Attribute - Color - Imported
+Filter Products by Attribute - Filter by - Imported
+Product Tag Cloud - Product tags - Imported
+Products list - Products - Imported
+
+
+
+---Importing Redux settings---
+Redux settings import for: hyori_theme_options finished successfully!
+
+---ocdi/after_import---
+

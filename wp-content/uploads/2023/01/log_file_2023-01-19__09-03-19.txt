@@ -1,0 +1,76 @@
+
+---Downloaded files---
+The import files for: Home were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/apcomed
+Data file = C:\xampp\htdocs\apcomed/wp-content/themes/hyori/inc/vendors/one-click-demo-import/data/dummy-data.xml
+Widget file = C:\xampp\htdocs\apcomed/wp-content/themes/hyori/inc/vendors/one-click-demo-import/data/widgets.wie
+Customizer file = not defined!
+Redux files:
+hyori_theme_options -> C:\xampp\htdocs\apcomed/wp-content/themes/hyori/inc/vendors/one-click-demo-import/data/redux-options.json 
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---ocdi/before_widgets_import---
+
+
+---Importing widgets---
+Blog sidebar : 
+
+Goal Search Widget - Search - Imported
+Categories - Categories - Imported
+Goal Recent Posts Widget - Latest Post - Imported
+Archives - No Title - Imported
+Recent Comments - No Title - Imported
+Tag Cloud - Tags - Imported
+
+Shop Sidebar : 
+
+Block - No Title - Imported
+Filter Products by Price - Filter by price - Imported
+Goal Filter Products by Attribute - Color - Imported
+Filter Products by Attribute - Filter by - Imported
+Product Tag Cloud - Product tags - Imported
+Products list - Products - Imported
+
+Shop Filter Sidebar : 
+
+Block - No Title - Imported
+Filter Products by Price - Filter by price - Imported
+Goal Filter Products by Attribute - Color - Imported
+Filter Products by Attribute - Filter by - Imported
+Products list - Products - Imported
+
+Popup Newsletter : 
+
+Goal Popup Newsletter Widget - Newsletter - Imported
+
+Header Mobile Bottom : 
+
+Block - No Title - Imported
+Block - No Title - Imported
+Goal Socials - No Title - Imported
+
+
+
+---Importing Redux settings---
+Redux settings import for: hyori_theme_options finished successfully!
+
+---ocdi/after_import---
+

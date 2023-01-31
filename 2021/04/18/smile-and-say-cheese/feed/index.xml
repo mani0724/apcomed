@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: Smile and Say Cheese	</title>
+	<atom:link href="https://mani0724.github.io/apcomed/2021/04/18/smile-and-say-cheese/feed/" rel="self" type="application/rss+xml" />
+	<link>https://mani0724.github.io/apcomed/2021/04/18/smile-and-say-cheese/</link>
+	<description></description>
+	<lastBuildDate>Sun, 18 Apr 2021 18:15:27 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<item>
+		<title>
+		By: Mike		</title>
+		<link>https://mani0724.github.io/apcomed/2021/04/18/smile-and-say-cheese/#comment-6</link>
+
+		<dc:creator><![CDATA[Mike]]></dc:creator>
+		<pubDate>Sun, 18 Apr 2021 18:15:27 +0000</pubDate>
+		<guid isPermaLink="false">http://localhost/wp/azuri-theme/?p=1455#comment-6</guid>
+
+					<description><![CDATA[In reply to &lt;a href=&quot;https://mani0724.github.io/apcomed/2021/04/18/smile-and-say-cheese/#comment-5&quot;&gt;Joe Doe&lt;/a&gt;.
+
+It would be great to try this theme for my businesses]]></description>
+			<content:encoded><![CDATA[<p>In reply to <a href="https://mani0724.github.io/apcomed/2021/04/18/smile-and-say-cheese/#comment-5">Joe Doe</a>.</p>
+<p>It would be great to try this theme for my businesses</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Joe Doe		</title>
+		<link>https://mani0724.github.io/apcomed/2021/04/18/smile-and-say-cheese/#comment-5</link>
+
+		<dc:creator><![CDATA[Joe Doe]]></dc:creator>
+		<pubDate>Sun, 18 Apr 2021 18:14:35 +0000</pubDate>
+		<guid isPermaLink="false">http://localhost/wp/azuri-theme/?p=1455#comment-5</guid>
+
+					<description><![CDATA[This is exactly what i was looking for, thank you so much for these tutorials]]></description>
+			<content:encoded><![CDATA[<p>This is exactly what i was looking for, thank you so much for these tutorials</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

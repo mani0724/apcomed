@@ -1,0 +1,2 @@
+2023-01-21T05:40:00+00:00 CRITICAL Out of memory (allocated 90177536) (tried to allocate 36864 bytes) in C:\xampp\htdocs\apcomed\wp-content\plugins\yith-woocommerce-compare\plugin-fw\yit-plugin.php on line 32
+
